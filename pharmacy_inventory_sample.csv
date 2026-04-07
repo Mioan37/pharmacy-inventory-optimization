@@ -1,0 +1,301 @@
+product,category,sales,stock_level,supplier,reorder_time,expiration_date
+Painkiller,Supplements,25,25,PharmaA,7,2025-08-13
+Vitamin C,OTC,15,26,PharmaC,5,2025-07-25
+Cough Syrup,Supplements,107,29,PharmaC,8,2025-01-09
+Painkiller,Cold & Flu,69,151,PharmaB,7,2025-10-04
+Antacid,Cold & Flu,22,50,PharmaA,14,2025-09-05
+Cough Syrup,OTC,27,109,PharmaC,7,2025-01-13
+Allergy Pills,OTC,133,124,PharmaA,4,2025-10-09
+Vitamin C,OTC,42,162,PharmaB,11,2025-05-21
+Allergy Pills,Supplements,139,21,PharmaB,7,2025-09-17
+Cough Syrup,Cold & Flu,145,100,PharmaB,14,2025-10-26
+Antacid,Cold & Flu,133,68,PharmaC,9,2025-03-16
+Antacid,Supplements,136,108,PharmaA,12,2025-07-02
+Painkiller,OTC,70,22,PharmaB,5,2025-07-29
+Allergy Pills,Supplements,37,56,PharmaC,13,2025-11-17
+Antacid,OTC,52,132,PharmaA,5,2025-05-26
+Vitamin C,OTC,113,187,PharmaA,7,2025-01-29
+Vitamin C,Supplements,55,77,PharmaA,12,2025-05-09
+Cough Syrup,OTC,35,151,PharmaA,4,2025-07-16
+Painkiller,Supplements,147,128,PharmaC,10,2025-08-03
+Allergy Pills,OTC,60,132,PharmaA,11,2025-08-11
+Antacid,Cold & Flu,105,76,PharmaB,10,2025-08-24
+Cough Syrup,Supplements,92,111,PharmaB,14,2025-05-29
+Vitamin C,Cold & Flu,27,152,PharmaB,14,2025-07-19
+Antacid,Cold & Flu,127,197,PharmaC,14,2025-03-04
+Antacid,OTC,73,189,PharmaC,13,2025-07-10
+Allergy Pills,Cold & Flu,81,115,PharmaB,13,2025-08-25
+Allergy Pills,Cold & Flu,31,150,PharmaB,4,2025-09-14
+Painkiller,Cold & Flu,136,41,PharmaA,14,2025-05-20
+Antacid,Supplements,119,109,PharmaC,10,2025-07-04
+Vitamin C,Cold & Flu,133,180,PharmaB,4,2025-04-01
+Painkiller,OTC,16,149,PharmaB,8,2025-09-21
+Antacid,OTC,43,89,PharmaC,6,2025-03-24
+Cough Syrup,Supplements,150,120,PharmaC,12,2025-10-10
+Antacid,Cold & Flu,24,46,PharmaA,5,2025-08-12
+Antacid,Supplements,130,22,PharmaC,14,2025-08-02
+Painkiller,Cold & Flu,106,24,PharmaC,14,2025-03-04
+Allergy Pills,Supplements,138,193,PharmaC,6,2025-02-06
+Antacid,Supplements,71,130,PharmaB,5,2025-10-06
+Cough Syrup,OTC,145,40,PharmaA,14,2025-12-27
+Cough Syrup,Supplements,57,180,PharmaC,9,2025-03-15
+Painkiller,Cold & Flu,136,86,PharmaC,12,2025-04-26
+Allergy Pills,Supplements,83,52,PharmaB,13,2025-08-28
+Painkiller,Cold & Flu,100,198,PharmaC,14,2025-06-15
+Cough Syrup,Cold & Flu,31,59,PharmaC,12,2025-07-02
+Cough Syrup,Supplements,66,47,PharmaB,3,2025-04-04
+Painkiller,Supplements,43,124,PharmaA,13,2025-06-04
+Allergy Pills,Cold & Flu,121,53,PharmaB,12,2025-04-27
+Vitamin C,OTC,141,70,PharmaA,8,2025-01-17
+Cough Syrup,Supplements,106,86,PharmaA,4,2025-11-17
+Painkiller,OTC,54,145,PharmaC,6,2025-09-28
+Allergy Pills,Supplements,62,122,PharmaC,14,2025-04-20
+Vitamin C,Cold & Flu,38,96,PharmaC,7,2025-03-02
+Painkiller,Supplements,145,74,PharmaB,14,2025-12-06
+Allergy Pills,OTC,129,22,PharmaC,13,2025-10-22
+Antacid,Supplements,79,120,PharmaC,13,2025-02-03
+Painkiller,OTC,21,50,PharmaB,4,2025-09-10
+Cough Syrup,Cold & Flu,146,143,PharmaC,6,2025-07-30
+Cough Syrup,Supplements,144,181,PharmaB,14,2025-01-10
+Antacid,Supplements,98,142,PharmaB,10,2025-11-12
+Cough Syrup,Supplements,113,181,PharmaB,8,2025-02-25
+Painkiller,Supplements,144,197,PharmaC,7,2025-04-03
+Allergy Pills,Supplements,38,170,PharmaA,13,2025-07-11
+Cough Syrup,Supplements,17,145,PharmaB,4,2025-01-17
+Allergy Pills,OTC,99,179,PharmaC,4,2025-08-12
+Painkiller,Supplements,98,200,PharmaC,11,2025-12-09
+Painkiller,Supplements,17,170,PharmaC,6,2025-11-09
+Cough Syrup,OTC,102,94,PharmaB,9,2025-02-28
+Cough Syrup,Supplements,14,70,PharmaC,9,2025-12-07
+Allergy Pills,OTC,110,139,PharmaB,7,2025-06-15
+Antacid,Cold & Flu,88,103,PharmaC,5,2025-10-12
+Vitamin C,Cold & Flu,146,180,PharmaA,7,2025-10-14
+Antacid,Supplements,111,82,PharmaA,11,2025-07-26
+Antacid,Cold & Flu,58,196,PharmaC,11,2025-01-17
+Allergy Pills,OTC,50,80,PharmaA,9,2025-11-22
+Antacid,OTC,53,143,PharmaB,9,2025-11-10
+Cough Syrup,Cold & Flu,114,117,PharmaA,5,2025-08-09
+Antacid,OTC,111,20,PharmaA,3,2025-05-05
+Antacid,Supplements,79,198,PharmaB,14,2025-01-10
+Painkiller,OTC,46,65,PharmaB,8,2025-06-10
+Vitamin C,Cold & Flu,96,32,PharmaC,5,2025-04-25
+Allergy Pills,OTC,149,85,PharmaC,12,2025-10-13
+Allergy Pills,Supplements,119,198,PharmaA,4,2025-05-17
+Painkiller,OTC,73,88,PharmaC,12,2025-02-23
+Cough Syrup,Cold & Flu,125,147,PharmaB,12,2025-12-03
+Vitamin C,Cold & Flu,85,100,PharmaC,14,2025-08-25
+Painkiller,Supplements,133,160,PharmaB,3,2025-09-01
+Antacid,OTC,142,173,PharmaA,8,2025-01-31
+Antacid,Cold & Flu,126,176,PharmaC,6,2025-04-22
+Antacid,Supplements,61,176,PharmaC,14,2025-08-17
+Antacid,Cold & Flu,30,65,PharmaB,10,2025-07-20
+Antacid,OTC,124,148,PharmaB,13,2025-04-08
+Cough Syrup,Cold & Flu,33,190,PharmaA,11,2025-06-08
+Antacid,Supplements,55,183,PharmaA,3,2025-04-25
+Cough Syrup,Supplements,111,49,PharmaA,11,2025-03-08
+Vitamin C,Supplements,58,141,PharmaC,3,2025-04-20
+Vitamin C,Supplements,40,62,PharmaC,14,2025-05-04
+Allergy Pills,Supplements,77,129,PharmaB,10,2025-04-25
+Antacid,OTC,34,145,PharmaA,5,2025-02-01
+Vitamin C,OTC,60,65,PharmaA,12,2025-12-10
+Cough Syrup,Cold & Flu,42,22,PharmaA,5,2025-05-22
+Vitamin C,OTC,85,33,PharmaC,12,2025-06-02
+Antacid,OTC,18,60,PharmaC,9,2025-12-20
+Cough Syrup,OTC,43,180,PharmaB,3,2025-11-10
+Vitamin C,OTC,57,174,PharmaA,6,2025-12-25
+Allergy Pills,OTC,144,44,PharmaA,8,2025-05-18
+Painkiller,OTC,142,85,PharmaA,8,2025-06-23
+Cough Syrup,OTC,81,26,PharmaC,12,2025-11-19
+Allergy Pills,Cold & Flu,15,165,PharmaB,13,2025-12-30
+Cough Syrup,Cold & Flu,69,83,PharmaB,4,2025-08-01
+Painkiller,OTC,68,23,PharmaA,11,2025-03-24
+Cough Syrup,OTC,146,115,PharmaA,4,2025-04-08
+Vitamin C,OTC,96,182,PharmaC,7,2025-11-20
+Painkiller,Supplements,83,72,PharmaA,10,2025-06-19
+Vitamin C,Cold & Flu,43,183,PharmaA,14,2025-05-09
+Vitamin C,Cold & Flu,139,127,PharmaA,10,2025-11-25
+Cough Syrup,Supplements,53,156,PharmaC,3,2025-07-26
+Antacid,Cold & Flu,19,68,PharmaB,11,2025-12-08
+Painkiller,Cold & Flu,82,111,PharmaA,10,2025-07-23
+Vitamin C,Supplements,107,59,PharmaB,11,2025-04-12
+Painkiller,Supplements,141,44,PharmaA,13,2025-10-02
+Cough Syrup,OTC,142,174,PharmaB,3,2025-11-03
+Vitamin C,Cold & Flu,130,189,PharmaA,6,2025-10-12
+Painkiller,OTC,150,142,PharmaB,6,2025-11-18
+Cough Syrup,OTC,96,57,PharmaB,13,2025-02-20
+Vitamin C,Cold & Flu,137,60,PharmaC,5,2025-08-09
+Cough Syrup,Supplements,87,158,PharmaA,7,2025-05-03
+Cough Syrup,Cold & Flu,123,152,PharmaB,13,2025-02-08
+Allergy Pills,Supplements,11,163,PharmaA,7,2025-12-02
+Vitamin C,Cold & Flu,57,143,PharmaC,3,2025-01-03
+Vitamin C,OTC,90,109,PharmaA,11,2025-06-26
+Allergy Pills,Cold & Flu,27,189,PharmaC,3,2025-08-14
+Vitamin C,Cold & Flu,67,152,PharmaB,13,2025-03-08
+Antacid,Supplements,86,34,PharmaC,7,2025-03-04
+Painkiller,Cold & Flu,56,61,PharmaB,9,2025-02-20
+Vitamin C,OTC,82,89,PharmaB,6,2025-08-19
+Painkiller,OTC,37,53,PharmaC,6,2025-09-22
+Antacid,OTC,41,191,PharmaB,12,2025-10-22
+Painkiller,Supplements,99,38,PharmaC,11,2025-03-27
+Allergy Pills,OTC,89,42,PharmaB,6,2025-06-23
+Antacid,OTC,111,199,PharmaC,13,2025-01-24
+Vitamin C,OTC,124,49,PharmaA,11,2025-04-13
+Cough Syrup,OTC,43,181,PharmaB,10,2025-10-16
+Painkiller,OTC,90,166,PharmaC,10,2025-06-22
+Painkiller,Supplements,32,60,PharmaA,14,2025-02-20
+Vitamin C,Cold & Flu,41,163,PharmaC,4,2025-07-25
+Painkiller,OTC,15,171,PharmaC,5,2025-09-16
+Antacid,Cold & Flu,120,162,PharmaA,5,2025-09-17
+Allergy Pills,OTC,95,98,PharmaB,9,2025-01-30
+Painkiller,OTC,95,162,PharmaC,9,2025-06-11
+Allergy Pills,OTC,48,81,PharmaB,3,2025-03-03
+Cough Syrup,Supplements,59,124,PharmaB,10,2025-02-11
+Allergy Pills,Supplements,140,32,PharmaC,13,2025-12-18
+Allergy Pills,Cold & Flu,122,68,PharmaA,14,2025-11-17
+Cough Syrup,Supplements,34,140,PharmaA,5,2025-03-29
+Cough Syrup,OTC,43,135,PharmaC,7,2025-09-12
+Antacid,Cold & Flu,70,77,PharmaC,14,2025-10-28
+Vitamin C,Supplements,24,43,PharmaA,7,2025-05-26
+Vitamin C,OTC,120,69,PharmaA,4,2025-12-02
+Cough Syrup,OTC,95,61,PharmaC,6,2025-08-03
+Cough Syrup,Cold & Flu,149,190,PharmaA,13,2025-03-31
+Painkiller,OTC,122,134,PharmaA,6,2025-03-10
+Vitamin C,OTC,92,178,PharmaA,14,2025-08-22
+Allergy Pills,Cold & Flu,122,153,PharmaA,8,2025-05-18
+Vitamin C,Cold & Flu,60,103,PharmaB,7,2025-10-03
+Vitamin C,OTC,63,192,PharmaB,9,2025-09-07
+Antacid,Cold & Flu,15,186,PharmaA,10,2025-10-19
+Antacid,Cold & Flu,68,179,PharmaC,3,2025-04-04
+Antacid,OTC,55,170,PharmaC,13,2025-03-04
+Painkiller,Supplements,44,75,PharmaC,13,2025-06-30
+Painkiller,Supplements,20,63,PharmaB,14,2025-03-26
+Cough Syrup,Cold & Flu,96,188,PharmaA,4,2025-05-10
+Painkiller,Cold & Flu,124,161,PharmaA,14,2025-04-27
+Vitamin C,OTC,76,73,PharmaA,13,2025-07-19
+Vitamin C,OTC,68,90,PharmaA,3,2025-02-09
+Painkiller,Cold & Flu,121,133,PharmaB,4,2025-03-03
+Cough Syrup,Cold & Flu,18,146,PharmaA,11,2025-12-13
+Antacid,Cold & Flu,73,169,PharmaA,5,2025-08-15
+Vitamin C,OTC,104,94,PharmaC,5,2025-03-02
+Painkiller,OTC,146,68,PharmaA,13,2025-12-27
+Painkiller,Cold & Flu,118,94,PharmaC,12,2025-11-27
+Allergy Pills,Cold & Flu,21,154,PharmaB,9,2025-12-30
+Cough Syrup,Cold & Flu,47,20,PharmaC,9,2025-09-28
+Painkiller,Cold & Flu,13,86,PharmaA,5,2025-01-18
+Cough Syrup,Supplements,106,176,PharmaC,3,2025-01-09
+Cough Syrup,Cold & Flu,92,122,PharmaB,3,2025-02-02
+Allergy Pills,Cold & Flu,147,160,PharmaA,14,2025-04-09
+Allergy Pills,OTC,35,102,PharmaB,4,2025-10-27
+Antacid,Cold & Flu,25,198,PharmaA,5,2025-04-13
+Painkiller,OTC,20,197,PharmaC,12,2025-04-22
+Painkiller,Supplements,91,85,PharmaC,8,2025-01-08
+Antacid,Supplements,122,150,PharmaA,4,2025-05-22
+Painkiller,Cold & Flu,150,165,PharmaC,14,2025-03-26
+Vitamin C,Cold & Flu,66,33,PharmaB,14,2025-03-29
+Antacid,OTC,22,144,PharmaB,6,2025-12-17
+Allergy Pills,OTC,114,159,PharmaC,6,2025-10-03
+Vitamin C,OTC,45,67,PharmaC,9,2025-02-24
+Vitamin C,Cold & Flu,131,171,PharmaC,6,2025-01-27
+Antacid,OTC,142,192,PharmaC,10,2025-01-03
+Allergy Pills,Supplements,89,56,PharmaC,8,2025-12-06
+Cough Syrup,Cold & Flu,115,118,PharmaA,14,2025-05-27
+Painkiller,OTC,24,78,PharmaC,7,2025-08-19
+Cough Syrup,Supplements,38,55,PharmaC,11,2025-11-20
+Painkiller,OTC,11,145,PharmaC,12,2025-06-15
+Antacid,Cold & Flu,94,200,PharmaB,6,2025-06-27
+Allergy Pills,Cold & Flu,33,180,PharmaA,10,2025-07-24
+Allergy Pills,OTC,66,83,PharmaC,3,2025-06-07
+Antacid,Cold & Flu,65,23,PharmaC,14,2025-04-04
+Painkiller,Cold & Flu,115,171,PharmaB,12,2025-05-07
+Antacid,Cold & Flu,113,88,PharmaC,12,2025-08-03
+Allergy Pills,Cold & Flu,27,140,PharmaA,11,2025-01-06
+Allergy Pills,Cold & Flu,149,93,PharmaB,3,2025-06-06
+Cough Syrup,OTC,96,24,PharmaA,4,2025-06-26
+Antacid,Supplements,149,125,PharmaA,12,2025-01-27
+Cough Syrup,Supplements,51,47,PharmaA,3,2025-03-22
+Antacid,Supplements,100,189,PharmaB,11,2025-11-26
+Painkiller,Supplements,138,126,PharmaC,7,2025-01-27
+Cough Syrup,Supplements,143,163,PharmaC,9,2025-06-02
+Antacid,Cold & Flu,61,32,PharmaA,12,2025-05-11
+Painkiller,OTC,135,143,PharmaC,7,2025-04-25
+Cough Syrup,OTC,45,38,PharmaB,14,2025-12-14
+Antacid,OTC,85,33,PharmaA,11,2025-09-25
+Cough Syrup,Cold & Flu,52,56,PharmaC,3,2025-05-07
+Cough Syrup,Cold & Flu,85,198,PharmaC,13,2025-01-08
+Antacid,OTC,60,177,PharmaA,14,2025-12-01
+Painkiller,OTC,125,186,PharmaC,7,2025-12-08
+Vitamin C,OTC,111,98,PharmaB,6,2025-11-07
+Painkiller,Supplements,50,44,PharmaA,10,2025-07-20
+Vitamin C,OTC,80,173,PharmaC,4,2025-09-05
+Cough Syrup,Cold & Flu,84,173,PharmaA,3,2025-10-11
+Vitamin C,OTC,114,135,PharmaC,9,2025-11-12
+Antacid,Cold & Flu,99,79,PharmaA,10,2025-05-16
+Antacid,Supplements,20,194,PharmaB,5,2025-08-17
+Painkiller,OTC,108,145,PharmaC,4,2025-12-03
+Vitamin C,OTC,79,55,PharmaB,14,2025-09-17
+Antacid,Cold & Flu,139,71,PharmaB,14,2025-10-10
+Allergy Pills,Supplements,93,64,PharmaA,9,2025-07-18
+Vitamin C,Supplements,47,89,PharmaB,10,2025-10-09
+Painkiller,Supplements,76,145,PharmaA,13,2025-11-29
+Painkiller,Cold & Flu,146,41,PharmaC,5,2025-10-01
+Allergy Pills,OTC,73,176,PharmaB,9,2025-04-29
+Antacid,Cold & Flu,83,100,PharmaB,12,2025-04-01
+Painkiller,OTC,71,115,PharmaA,8,2025-02-20
+Cough Syrup,Supplements,82,172,PharmaC,10,2025-12-15
+Antacid,Supplements,63,115,PharmaC,11,2025-12-17
+Antacid,Cold & Flu,110,22,PharmaB,8,2025-06-07
+Antacid,OTC,86,120,PharmaA,11,2025-08-15
+Vitamin C,OTC,129,35,PharmaB,7,2025-08-05
+Allergy Pills,OTC,113,81,PharmaB,3,2025-02-20
+Antacid,Supplements,92,53,PharmaB,5,2025-10-28
+Allergy Pills,OTC,128,30,PharmaA,11,2025-06-30
+Antacid,Supplements,13,129,PharmaB,5,2025-10-07
+Antacid,Cold & Flu,56,82,PharmaC,10,2025-08-26
+Antacid,Supplements,39,119,PharmaA,6,2025-01-23
+Allergy Pills,OTC,21,165,PharmaB,10,2025-02-26
+Painkiller,OTC,64,116,PharmaC,13,2025-08-25
+Cough Syrup,OTC,87,96,PharmaB,12,2025-09-03
+Antacid,OTC,68,64,PharmaA,7,2025-04-20
+Antacid,Cold & Flu,74,158,PharmaB,12,2025-09-22
+Vitamin C,OTC,103,50,PharmaA,3,2025-12-23
+Allergy Pills,OTC,142,163,PharmaA,3,2025-11-20
+Allergy Pills,Supplements,107,181,PharmaC,12,2025-08-20
+Antacid,Cold & Flu,87,174,PharmaC,9,2025-09-11
+Allergy Pills,OTC,110,84,PharmaA,13,2025-08-30
+Cough Syrup,Cold & Flu,131,115,PharmaA,7,2025-02-21
+Painkiller,Cold & Flu,15,96,PharmaA,13,2025-12-17
+Cough Syrup,OTC,101,132,PharmaC,10,2025-07-22
+Antacid,Cold & Flu,81,38,PharmaB,6,2025-08-31
+Vitamin C,Supplements,136,172,PharmaB,11,2025-11-27
+Painkiller,OTC,149,69,PharmaB,9,2025-02-14
+Vitamin C,Cold & Flu,132,101,PharmaA,13,2025-05-18
+Vitamin C,Cold & Flu,136,28,PharmaC,14,2025-08-20
+Painkiller,OTC,24,62,PharmaA,5,2025-11-22
+Cough Syrup,Supplements,75,105,PharmaC,14,2025-05-17
+Vitamin C,Cold & Flu,99,164,PharmaA,7,2025-06-23
+Painkiller,Cold & Flu,97,87,PharmaC,13,2025-10-15
+Cough Syrup,Supplements,45,135,PharmaA,10,2025-06-21
+Allergy Pills,Cold & Flu,87,56,PharmaA,8,2025-03-18
+Antacid,OTC,118,128,PharmaC,6,2025-08-24
+Allergy Pills,OTC,48,67,PharmaC,14,2025-10-25
+Vitamin C,Cold & Flu,144,43,PharmaB,7,2025-06-03
+Vitamin C,OTC,51,40,PharmaB,14,2025-05-26
+Cough Syrup,Cold & Flu,111,100,PharmaB,8,2025-10-27
+Vitamin C,Cold & Flu,98,88,PharmaA,14,2025-07-05
+Cough Syrup,Supplements,141,186,PharmaB,14,2025-03-11
+Painkiller,OTC,43,87,PharmaB,14,2025-03-30
+Allergy Pills,OTC,140,112,PharmaC,6,2025-12-07
+Vitamin C,OTC,73,111,PharmaC,4,2025-02-04
+Allergy Pills,Supplements,12,138,PharmaB,9,2025-03-31
+Cough Syrup,OTC,47,92,PharmaA,14,2025-11-26
+Painkiller,Cold & Flu,48,92,PharmaA,4,2025-05-22
+Painkiller,OTC,30,104,PharmaB,9,2025-07-04
+Allergy Pills,OTC,95,156,PharmaB,14,2025-02-22
+Painkiller,OTC,18,147,PharmaB,14,2025-08-01
+Painkiller,Cold & Flu,37,52,PharmaA,13,2025-01-30
+Vitamin C,OTC,121,46,PharmaA,14,2025-07-07
+Antacid,Supplements,135,26,PharmaA,14,2025-06-18
+Allergy Pills,OTC,121,119,PharmaB,3,2025-04-21
+Painkiller,Cold & Flu,37,128,PharmaC,5,2025-04-30
+Antacid,Supplements,118,115,PharmaA,11,2025-05-22
+Painkiller,OTC,93,33,PharmaC,10,2025-05-20
