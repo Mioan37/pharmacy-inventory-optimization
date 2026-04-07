@@ -50,7 +50,7 @@
 
 # &#x20;  ```bash
 
-# &#x20;  git clone https://github.com/your-username/pharmacy-inventory-optimization.git
+# &#x20;  git clone https://github.com/Mioan37/pharmacy-inventory-optimization.git
 
 # &#x20;  ```
 
