@@ -1,78 +1,123 @@
-# \# 💊 Pharmacy Inventory Optimization Analysis
+# 💊 Pharmacy Inventory Optimization Analysis
 
-# \*\*Author:\*\* Ioannis Michelis
+**Author:** Ioannis Michelis
 
-# 
+## 📋 Project Overview
 
-# \## 📋 Project Overview
+This project focuses on data-driven inventory management for a pharmacy setting. By analyzing a sample dataset of **301 product SKUs**, the goal is to optimize stock levels, identify sales patterns, and reduce the risk of stockouts, overstocking, and product expiration.
 
-# This project focuses on data-driven inventory management for a pharmacy setting. By analyzing a dataset of \*\*301 product SKUs\*\*, the goal is to optimize stock levels, identify sales patterns, and mitigate the risk of stockouts or product expiration.
+The project simulates a real pharmacy inventory problem where sales, stock levels, supplier lead times, and expiry dates are used to support better purchasing and stock control decisions.
 
-# 
+## ❓ Business Question
 
-# \## 🛠 Tech Stack
+Which pharmacy products require reordering, which are overstocked, and which are at risk of expiration based on sales, stock levels, supplier lead times, and expiry dates?
 
-# \* \*\*Language:\*\* Python
+## 🛠 Tech Stack
 
-# \* \*\*Libraries:\*\* Pandas (Data Manipulation), Matplotlib (Visualization)
+- **Language:** Python
+- **Libraries:** Pandas, Matplotlib
+- **Data Format:** CSV
 
-# 
+## 📁 Project Structure
 
-# \## 📊 Dataset Analysis
+```text
+pharmacy-inventory-optimization/
+│
+├── README.md
+├── analysis.py
+├── pharmacy_inventory_sample.csv
+├── requirements.txt
+└── sales_distribution.png
+```
 
-# The analysis was performed on a structured dataset containing \*\*301 records\*\* with the following fields:
+## 📊 Dataset Description
 
-# \* \*\*Product \& Category:\*\* Classification of pharmaceutical items.
+The analysis was performed on a structured pharmacy inventory dataset containing **301 records**.
 
-# \* \*\*Sales \& Stock Level:\*\* Monitoring demand vs. current availability.
+The dataset includes:
 
-# \* \*\*Logistics:\*\* Supplier details and reorder lead times.
+- **Product Name:** Name of each pharmacy or OTC product
+- **Category:** Product classification
+- **Sales Data:** Quantity sold over a selected period
+- **Stock Level:** Current available inventory
+- **Supplier:** Supplier information for reorder planning
+- **Lead Time:** Estimated supplier delivery time
+- **Expiration Date:** Product expiry tracking
+- **Reorder Point:** Minimum stock level used to trigger replenishment decisions
 
-# \* \*\*Expiration Tracking:\*\* Critical dates for waste management.
+## 🔍 Analysis Performed
 
-# 
+The analysis focuses on four key inventory management areas:
 
-# \## 📈 Key Results \& Actionable Insights
+1. **Inventory Velocity**
+   - Products were categorized into fast-moving, medium-moving, and slow-moving groups based on sales activity.
 
-# \* \*\*Inventory Velocity:\*\* Categorized all 301 products into fast, medium, and slow-moving groups to prioritize procurement.
+2. **Reorder Identification**
+   - Products with stock levels at or below the reorder point were flagged as requiring replenishment.
 
-# \* \*\*Stock Optimization:\*\* Identified products with high stock-to-sales ratios to reduce capital tied up in overstock.
+3. **Overstock Detection**
+   - Products with high stock levels compared to sales were identified as potential overstock risks.
 
-# \* \*\*Risk Management:\*\* Established automated reorder thresholds for high-demand OTC products to ensure constant availability.
+4. **Expiration Risk**
+   - Products close to their expiration date were isolated to support proactive stock rotation, discounting, or priority sales.
 
-# \* \*\*Waste Prevention:\*\* Isolated items nearing their expiration date, enabling proactive stock rotation or discounting.
+## 📈 Key Results & Actionable Insights
 
-# 
+- **Fast-moving products** can be prioritized for regular replenishment to prevent stockouts.
+- **Slow-moving products** can be reviewed to avoid unnecessary purchasing and reduce capital tied up in inventory.
+- **Overstocked items** can be monitored to prevent waste and improve cash flow.
+- **Products near expiration** can be rotated, discounted, or promoted before they become unsellable.
+- **Reorder thresholds** help support more consistent and data-driven supplier ordering decisions.
 
-# \## 🚀 Installation \& Usage
+## 📊 Output / Visualization
 
-# 1\. \*\*Clone the repository:\*\*
+The project includes a sales distribution chart:
 
-# &#x20;  ```bash
+```text
+sales_distribution.png
+```
 
-# &#x20;  git clone https://github.com/Mioan37/pharmacy-inventory-optimization.git
+This visualization helps show how sales volume is distributed across products and supports decisions around fast-moving and slow-moving inventory.
 
-# &#x20;  ```
+## 🚀 Installation & Usage
 
-# 2\. \*\*Install dependencies:\*\*
+1. **Clone the repository:**
 
-# &#x20;  ```bash
+```bash
+git clone https://github.com/Mioan37/pharmacy-inventory-optimization.git
+```
 
-# &#x20;  pip install -r requirements.txt
+2. **Install dependencies:**
 
-# &#x20;  ```
+```bash
+pip install -r requirements.txt
+```
 
-# 3\. \*\*Run the analysis:\*\*
+3. **Run the analysis:**
 
-# &#x20;  ```bash
+```bash
+python analysis.py
+```
 
-# &#x20;  python inventory\_analysis.py
+## 🎯 Business Value
 
-# &#x20;  ```
+By applying basic inventory analysis, a pharmacy can improve the balance between product availability and stock control.
 
-# 
+This helps the business:
 
-# \## 🎯 Business Value
+- Reduce stockouts for high-demand products
+- Avoid overstocking slow-moving products
+- Minimize expired stock and waste
+- Improve supplier ordering decisions
+- Support better customer service through improved product availability
 
-# By applying these analytical models, a pharmacy can achieve a better balance between service levels (product availability) and inventory costs, directly impacting the bottom line and customer trust.
+## ✅ Skills Demonstrated
 
+- Python data analysis
+- CSV data handling
+- Data cleaning and transformation
+- Inventory performance analysis
+- Pharmacy stock management logic
+- Reorder and expiration risk identification
+- Business insight generation
+- Data visualization with Matplotlib
